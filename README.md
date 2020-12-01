@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Helping command
+
+1: Install angular global then type
+`npm install -g @angular/cli`
+link [Install the Angular CLI](https://angular.io/guide/setup-local#install-the-angular-cli)
+
+2: After install create a project
+`ng new my-app`
+and install [Install the Angular CLI](https://angular.io/guide/setup-local#install-the-angular-cli)
+
+3: Run the application type
+`cd my-app or ng serve --open`
+projcet run at local host [Run the following command this link](https://angular.io/guide/setup-local#run-the-application) http://localhost:4200/.
+
+4: Add component type in cmd
+`ng generate component (type name of component here)`
+[Make the hero detail component](https://angular.io/tutorial/toh-pt3#make-the-herodetailcomponent).
