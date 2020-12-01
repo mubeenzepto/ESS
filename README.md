@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Helping command
 
-1: Install angular global then type
+1: Install angular global then type </br>
 `npm install -g @angular/cli`
 link [Install the Angular CLI](https://angular.io/guide/setup-local#install-the-angular-cli)
 
