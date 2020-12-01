@@ -43,3 +43,6 @@ projcet run at local host [Run the following command this link](https://angular.
 4: Add component type in cmd</br>
 `ng generate component (type name of component here)`</br>
 [Make the hero detail component](https://angular.io/tutorial/toh-pt3#make-the-herodetailcomponent).
+
+5: Create a component inside a specific folder:</br>
+`ng g c folder-name/component-name`</br>
